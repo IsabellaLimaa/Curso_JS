@@ -1,0 +1,9 @@
+n1 = variavel
+
+n1.toFixed(2): adiciona duas casas decimais. ex: 1.2 -> 1.20
+
+n1.toFixed(2).replace("." , ","): muda o ponto para vírgula. ex: 1.20 -> 1,20
+
+n1.toLocaleString("pt-BR", {style: "currency", currency: "BRL"}): muda para salário. ex:1250 -> R$1.250,00
+
+n1 = variavel

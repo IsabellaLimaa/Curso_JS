@@ -1,0 +1,5 @@
+Var: Escopo global. Pode se confundir pq ela funciona no globar e no local ao mesmo tempo.
+
+Let: Só funciona no escopo local. Usada para quando vc quer usar uma variável em uma parte pequena do código.
+
+Const: Varíavel fixa. Não tem como reescrever ela. ex: se Const A = 2, não tem como ser = a mais nada além de 2.

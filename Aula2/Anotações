@@ -1,0 +1,22 @@
+No javascrip o sinal de = sempre lê-se 'recebe'.
+
+Diferença dos =
+== Está comparando só o valor
+=== Está comparando o valor e o tipo 
+exemplo:   1 === '1' É falso pq 1 é numero e '1' é string.
+ 
+null = variável vazia sem receber nada.
+
+TRATAMENTO:
+ O sinal de + usa-se para concatenação quando forem uma string de cada lado do sinal.
+ Se for um number de cada lado, o sinal de + irá somar.
+
+ Se ocorrer algo do tipo 4 + 2 = 42, usar parseFloat, parseInt ou number.
+
+ parseFloat é para números reais (2.5 + 10.8)
+ parseInt é para números inteiros (2 + 4)
+ Number faz o papel dos dois anteriores 
+
+ Usa-se 'String' se quiser converter algo para uma string.
+
+ 
